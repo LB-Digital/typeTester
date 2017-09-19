@@ -1,0 +1,11 @@
+  #text{
+    font-size: 42px;
+    color: #aaa;
+  }
+
+  #correct{
+    color: #76d659;
+  }
+  #wrong{
+    color: #d14545;
+  }
